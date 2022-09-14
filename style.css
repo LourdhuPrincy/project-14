@@ -199,7 +199,7 @@ li.bottom-list:first-child::before{
         font-size: 20px;
         position: absolute;
         top:240px;
-        left:380px;
+        left:378px;
     }
     .bottom-right::before{
         content: "";
@@ -257,7 +257,8 @@ font-size: 15px;
         font-size:40x ;
     }
     .head-left p{
-        font-size: 12px;
+        font-size:18px;
+        top:68%;
     }
     button{
         margin-top: 40px;
@@ -335,9 +336,9 @@ font-size: 15px;
         
     }
     .head-left p{
-        font-size: 12px;
-        top:50%;
-        left:55%;
+        font-size: 15px;
+        top:40%;
+        left:57%;
     }
     .icon{
         display:flex;
@@ -390,7 +391,7 @@ font-size: 15px;
         margin-left: 20px;
     }
     .bottom-right::after{
-        top:70%;
+        top:73%;
     }
     .bottom-right::before{
         top: 48%;
