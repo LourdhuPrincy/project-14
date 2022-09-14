@@ -117,6 +117,7 @@ li.icons{
 }
 button{
     margin-left: 50%;
+    margin-top: 20px;
     border: none;
     padding: 15px 65px;
     background-color: rgb(65, 63, 63);
@@ -258,7 +259,7 @@ font-size: 15px;
     }
     .head-left p{
         font-size:18px;
-        top:68%;
+        top:60%;
     }
     button{
         margin-top: 40px;
